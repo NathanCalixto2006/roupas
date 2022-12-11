@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+.titulo{
+    color:rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
+.corroupa{
+    color:rgb(0, 0, 0);
+}
+
+.card{
+    border: solid rgb(5, 5, 5);
+    margin: 80px 10px;
+    width: 300px;
+    
+
+}
+.card img{
+    height:250px;
+    width: 80%;
+}
+.produtos{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.descricao{
+    color:rgb(247, 242, 242);
+    background-color: rgb(0, 0, 0);
+}
+.feminina{
+    color:rgb(0, 0, 0);
+    background-color: rgb(213, 1, 255);
+    width: 150px;
+}
+.roupasF{
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+}
+.eletronicos{
+    color: black;
+    background-color: yellow;
+}
+.eletroprod{
+    color: black;
+    background-color: yellow;
+    width: 150px;
+}
